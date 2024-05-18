@@ -1,4 +1,4 @@
-# Fetch Citations from API
+![Featch Citation img 0](https://github.com/Ashu993586/BeyondChats-Assignment/assets/128889803/6c7ff992-932c-4859-a900-ae7371e381c7)# Fetch Citations from API
 
 This Python script fetches data from a paginated API endpoint, identifies whether the response for each response-sources pair came from any of the sources, and lists down the sources from which the response was formed. The shortlisted sources are called citations.
 
@@ -21,6 +21,16 @@ This Python script fetches data from a paginated API endpoint, identifies whethe
      ```sh
      python fetch_citations.py
      ```
+## Image
+![Featch Citation img 0](https://github.com/Ashu993586/BeyondChats-Assignment/assets/128889803/14871122-e1bd-4761-99b5-41d89d02a578)
+
+----------------------------------------------------------------------------------
+
+![Featch Citation img 1](https://github.com/Ashu993586/BeyondChats-Assignment/assets/128889803/da7c59b6-ae1e-4d82-b353-ccb20e306a1f)
+
+
+
+
 
 This script includes proper error handling and checks for unexpected data formats. It should fetch and process data from the API, identifying citations and printing them.
 
